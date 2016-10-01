@@ -8,7 +8,7 @@
 # Site settings
 title: Master of Culture
 # email: email@site.com
-description: Master of Culture is election 2016 metadata Analysis and data mining through A.I. and machine learning programs written an applied anthropologist and artist.
+description: Master of Culture is a blog on research conducted ethnographicly and data mining through A.I. and machine learning programs written an applied anthropologist and artist.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.masterofculture.com" # the base hostname & protocol for your site
 twitter_username: djmattlamb
