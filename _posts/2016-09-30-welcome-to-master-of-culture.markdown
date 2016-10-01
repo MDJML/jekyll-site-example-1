@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-08-19 14:31:53 -0400
-categories: jekyll update
+title:  "Welcome to Master of Culture"
+date:   2016-09-19
+categories: update
 ---
-Hi, My name is Matt, this is one of my blogs.
+My name is Matt, this is one of my blogs.
     Site under construction, obviously...
-      ... and the purpose of this blog has yet to be determined in full,
-      but I have what I believe to be an interesting starting place.
+      ... The purpose of this blog has yet to be determined in full,
+      but I have a starting place.
 
 For the time being it will be the place that I publish my work on Watson API projects - data mining topics, issues, trends, events and individuals of cultural significance.
 
