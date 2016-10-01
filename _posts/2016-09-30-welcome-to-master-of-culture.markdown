@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Master of Culture"
-date:   2016-09-19
+date:   2016-09-30
 categories: update
 ---
 My name is Matt, this is one of my blogs.
