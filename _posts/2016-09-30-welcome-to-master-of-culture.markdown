@@ -17,6 +17,6 @@ I in no way claim to be THE master of culture, but I am an M.S. in Applied Anthr
 
 I am sure the commit rate will increase as I go, but at the moment it is slow going... much to do.
 
-Subscribe if you want to get some neat data analysis that merges applied inductive ethnographic and UX research methodologies with Natural Language Processing machine learning and metadata mining and other cutting edge A.I. and as a bonus, early subscribers will get to see a Rails neophyte (me) turn into a ninja!
+Subscribe if you want to get some neat data analysis that merges applied inductive ethnographic and UX research methodologies with Natural Language Processing machine learning and metadata mining and other cutting edge A.I. and as a bonus, early subscribers will get to see a programming neophyte (me) turn into a ninja!
 
 - Matt
