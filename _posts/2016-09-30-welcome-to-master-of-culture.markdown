@@ -11,7 +11,7 @@ My name is Matt, this is one of my blogs.
 
 For the time being it will be the place that I publish my work on Watson API projects - data mining topics, issues, trends, events and individuals of cultural significance.
 
-I hope this blog serves as a unique perspective on topics of interest, and also chronicles my works in attempting to improve qualitative analysis in A.I. and machine learning.
+I hope this blog serves as a unique perspective on topics of interest, and also chronicles my works in attempting to learn how to improve qualitative analysis in A.I. and machine learning.
 
 I in no way claim to be THE master of culture, but I am an M.S. in Applied Anthropology, and the name was available, so I found it apropos and a slight stroke to the ego.  
 
